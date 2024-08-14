@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cir{
+    background-color: rgba(128, 128, 128, 0.61);
+    border: 5px solid;
+    box-shadow: 0px 0px 20px black;
+    width: 60vh;
+    height: 60vh;
+    border-radius: 50%;
+}
+.st{
+    width: 5%;
+    position: absolute;
+    top: 62vh;
+    height: 30vh;
+    background-color: black;
+}
+.bto{
+    position: absolute;
+    top: 90vh;
+    background-color: green;
+    text-decoration: none;
+
+    
+}
+.a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
